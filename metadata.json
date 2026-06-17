@@ -1,0 +1,6 @@
+{
+  "name": "Math Notebook",
+  "description": "A modern, beautiful offline math notebook designed for students with hand writing difficulties.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
